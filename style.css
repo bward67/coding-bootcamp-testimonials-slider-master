@@ -89,7 +89,9 @@ button:hover {
   left: 50%;
   transform: translateX(-50%);
   width: 77%;
+  height: 82%;
   transition: all 0.9s ease-in-out;
+  object-fit: cover;
 }
 
 .content-container {

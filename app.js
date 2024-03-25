@@ -20,7 +20,7 @@ const testimonials = [
     student: "Barbara Ward",
     position: "Front-end Developer with LOTS to learn",
     quote:
-      "“ I did NOT take this coding course but I wanted to add another item to click on. So this is a photo of me - I am too big but I didn't want the hassle of resizing it. Happy Coding everyone! ”",
+      "“ I did NOT take this coding course but I wanted to add another item to click on. So this is a little photo of me - just for fun. Happy Coding everyone! ”",
     img: "images/image-barbara.jpg",
   },
 ];
